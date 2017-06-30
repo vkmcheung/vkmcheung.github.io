@@ -1,8 +1,8 @@
 # About me
 
 ---
-Back to [HOME](index.md) 
---- 
+(Back to [home](index.md) )
+
 
 <!--[Short Biography](#short_biography) -->
 <!--[Education](#education)-->
