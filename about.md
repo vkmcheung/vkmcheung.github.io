@@ -16,7 +16,7 @@
 
 
 
-Download my CV [here](index.md)
+~~Download my CV [here](index.md)~~ no I changed my mind
 
 <br><br>
 
