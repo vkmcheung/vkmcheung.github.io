@@ -1,6 +1,6 @@
 # About me
 
-[Education](#Education)
+[Education](# Education)
 [Test](#Test-lala)
 
 <br/>
@@ -87,7 +87,7 @@
 <br/>
 <br/>
 
-#Education
+### Education
 
 | 2016 - | Doctoral student (Max Planck Institute for Human Cognitive and Brain Sciences) |
 | 2013 - 2016 | MSc in Computational Neuroscience (Bernstein Center for Computational Neuroscience) |
