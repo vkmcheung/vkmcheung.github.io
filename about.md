@@ -1,9 +1,7 @@
 # About me
 
 ---
-(Back to [home](index.md) )
 
-<br><br>
 
 <!--[Short Biography](#short_biography) -->
 <!--[Education](#education)-->
@@ -16,7 +14,7 @@
 
 
 
-~~Download my CV [here](index.md)~~ no I changed my mind
+~~Download my CV [here](index.md)~~  
 
 <br><br>
 
@@ -36,3 +34,4 @@
 
 
 
+<br><br>[Back to [home](index.md)]
