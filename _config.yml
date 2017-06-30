@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Personal page
 description: wannabe neuroscientist
-markdown: kramdown
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks", "strikethrough", "superscript", "with_toc_data"]
