@@ -2,7 +2,7 @@
 
 ---
 
-## This is still under construction!!
+## (Still under construction!!)
 
 Eventually you should be able to find the following:
 - something [about me](about.md)
