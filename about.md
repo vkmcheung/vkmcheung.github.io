@@ -3,6 +3,7 @@
 ---
 (Back to [home](index.md) )
 
+<br><br>
 
 <!--[Short Biography](#short_biography) -->
 <!--[Education](#education)-->
