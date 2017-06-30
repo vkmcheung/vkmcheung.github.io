@@ -1,8 +1,8 @@
 # About me
 ---
 
-[Education](#Education)
-[Test](#Test-lala)
+[Education](#education)
+[Test](#test-lala)
 
 <br/>
 <br/>
