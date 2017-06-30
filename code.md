@@ -17,4 +17,4 @@ Requires: Octave, instrument-control package, PsychToolbox3
 Requires: MATLAB/Octave
 
 
-<br><br>(Back to [home](index.md)) 
+<br><br>[Back to [home](index.md)]
