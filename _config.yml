@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
-# title: Vincent K.M. Cheung
-# description: neuroscientist in training
+title: Home page of Vincent K.M. Cheung
+name: Vincent K.M. Cheung
+description: neuroscientist-in-training
 markdown: kramdown
 
 author:
