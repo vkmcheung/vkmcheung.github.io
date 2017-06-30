@@ -1,3 +1,7 @@
+---
+title: Home page of Vincent K.M. Cheung
+---
+
 # Welcome to my home page
 
 ---
