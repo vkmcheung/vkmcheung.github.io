@@ -2,7 +2,7 @@
 
 ---
 
-*This is still under progress!*
+**This is still under progress!**
 
 Eventually you should be able to find the following:
 - something [about me](about.md)
