@@ -2,7 +2,9 @@
 [Home](index.md)
 ---
 [Short Biography](#short_biography)
+
 [Education](#education)
+
 [Prizes and Awards](#prizes_and_awards)
 
 ### Short Biography
@@ -10,7 +12,7 @@
 
 
 
-Download my CV [here](www.google.de)
+Download my CV [here](index.md)
 
 ### Education
 
