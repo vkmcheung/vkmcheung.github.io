@@ -1,6 +1,6 @@
 # About me
 
-[Education](# Education)
+[Education](#Education)
 [Test](#Test-lala)
 
 <br/>
