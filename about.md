@@ -2,13 +2,31 @@
 
 [Education](#Education)
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Education
 
