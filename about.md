@@ -1,101 +1,25 @@
 # About me
+[Home](index.md)
 ---
-
+[Short Biography](#short_biography)
 [Education](#education)
-[Test](#test-lala)
+[Prizes and Awards](#prizes_and_awards)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-## Test lala
-
-| 2016 - | Doctoral student <br>(Max Planck Institute for Human Cognitive and Brain Sciences) |
-| 2013 - 2016 | MSc in Computational Neuroscience <br>(Bernstein Center for Computational Neuroscience) |
-| 2009 - 2013 | MMath in Mathematics  <br>(University of Warwick) |
+### Short Biography
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+
+Download my CV [here](www.google.de)
 
 ### Education
 
-| 2016 - | Doctoral student (Max Planck Institute for Human Cognitive and Brain Sciences) |
-| 2013 - 2016 | MSc in Computational Neuroscience (Bernstein Center for Computational Neuroscience) |
-| 2009 - 2013 | MMath in Mathematics (University of Warwick) |
+| 2016 - | Doctoral student <br>(Max Planck Institute for Human Cognitive and Brain Sciences) |
+| 2013 - 2016 | MSc in Computational Neuroscience <br>(Bernstein Center for Computational Neuroscience) |
+| 2009 - 2013 | MMath in Mathematics <br>(University of Warwick) |
 
+### Prizes and Awards
 
-[Home](index.md)
 
 
 
