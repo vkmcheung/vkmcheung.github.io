@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-### Test
+## Test
 
 | 2016 - | Doctoral student <br>(Max Planck Institute for Human Cognitive and Brain Sciences) |
 | 2013 - 2016 | MSc in Computational Neuroscience <br>(Bernstein Center for Computational Neuroscience) |
@@ -87,7 +87,7 @@
 <br/>
 <br/>
 
-### Education
+# Education
 
 | 2016 - | Doctoral student (Max Planck Institute for Human Cognitive and Brain Sciences) |
 | 2013 - 2016 | MSc in Computational Neuroscience (Bernstein Center for Computational Neuroscience) |
