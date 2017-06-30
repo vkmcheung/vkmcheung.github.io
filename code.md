@@ -2,7 +2,7 @@
 
 ---
 
-This page contains some MATLAB/Octave code that I wrote for various things experimentally-related for which you might find helpful:
+This page contains some MATLAB/Octave code that I wrote for various things related to my experiments, some of which you might find helpful:
 
 ### testpport.m
 
