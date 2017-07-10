@@ -16,6 +16,9 @@
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <br>
+        <br>
+        <p class="view"><a href="{{ index.md }}">Home <small>Back to Home</small></a></p>
 
        <!--- {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
