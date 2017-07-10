@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <!--- <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title> --->
-    <title>Homepage of Vincent K.M. Cheung</title>
+    <title>Homepage of Vincent K.M. Cheung (張家銘)</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
@@ -19,7 +19,7 @@
             href="/"
             style="color: black"
             onMouseOver="this.style.color='#069'"
-            onMouseOut="this.style.color=black"
+            onMouseOut="this.style.color='#000'"
           >{{ site.title | default: site.github.repository_name }}
           </a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
