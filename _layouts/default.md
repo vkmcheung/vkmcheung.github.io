@@ -48,8 +48,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Last updated: 7 July 2017 &mdash; Back to <a href="/">Home</a></small</p>
-        <p><small>&mdash; Theme by <a href="https://github.com/orderedlist">orderedlist &mdash;</a></small></p>
+        <p><small>Last updated: 7 July 2017 &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
