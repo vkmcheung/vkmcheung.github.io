@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <!--- <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title> --->
+    <title>Homepage of Vincent K.M. Cheung</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
@@ -14,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-      <h1><a href="/" style="color: black">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <!---<br>
         <br>
