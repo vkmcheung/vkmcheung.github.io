@@ -15,14 +15,14 @@
   <body>
     <div class="wrapper">
       <header>
-      <h1><a
-            href="/"
-            style="color: black"
-            onMouseOver="this.style.color='#069'"
-            onMouseOut="this.style.color='#000'"
-          >{{ site.title | default: site.github.repository_name }}
-          </a></h1>
+      <a
+        href="/"
+        style="color: black"
+        onMouseOver="this.style.color='#069'"
+        onMouseOut="this.style.color='#000'"
+      ><h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+      </a>
         <!---<br>
         <br>
         <p class="view"><a href="/"><small>[Home]</small></a></p>
