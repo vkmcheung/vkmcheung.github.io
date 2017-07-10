@@ -12,7 +12,7 @@
 ### Short Biography
 I'm a doctoral student based in the Department of Neuropsychology at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en) in [Leipzig, Germany](https://en.wikipedia.org/wiki/Leipzig). My research focuses on understanding how the brain makes predictions in music. Right now, I am investigating syntactic predictions in Western tonal harmony using behavioural measures and fMRI (functional Magnetic Resonance Imaging) in musicians and non-musicians. The ultimate goal is to identify and understand the underlying neural mechanisms that support our appreciation and pleasure that we get from listening to music - based on what we have heard and practiced throughout our lives.
 
-If you are interested in why I don't call myself a PhD student, click [here](personal.md#whynotphd).
+<small>If you are interested in why I don't call myself a PhD student, click [here](personal.md#why_i_dont_call_myself_a_phd_student).</small>
 <br><br>
 
 ### Education
