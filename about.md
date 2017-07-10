@@ -19,13 +19,13 @@ Because of my background in mathematics and computational neuroscience, I also l
 
 ### Education
 
-| 2016 - | Doctoral student at [IMPRS NeuroCom](http://imprs-neurocom.mpg.de/home) <br>([Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en)) |
+| 2016 - | Doctoral student of the [IMPRS NeuroCom](http://imprs-neurocom.mpg.de/home) <br>([Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en)) |
 | 2013 - 2016 | MSc in Computational Neuroscience <br>([Bernstein Center for Computational Neuroscience](https://www.bccn-berlin.de/Home/?languageId=1)) |
 | 2009 - 2013 | MMath in Mathematics <br>([University of Warwick](http://www2.warwick.ac.uk/)) |
 
 <br>
 
-### Prizes and Awards
+### Selected Prizes and Awards
 
 | 2015 | Croucher Foundation/DAAD Scholarship for doctoral studies at MPI/CBS|
 | 2014 | Das Deutschlandstipendium _(The Germany Scholarship)_ |
