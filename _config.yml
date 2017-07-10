@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 title: Vincent Ka Ming Cheung (張家銘)
 description: neuroscientist-in-training
 markdown: kramdown
+google_analytics: UA-102319625-1
+
 
 author:
   name: Vincent K.M. Cheung
