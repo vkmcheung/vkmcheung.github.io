@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-      <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <h1><font color="black"><a href="/">{{ site.title | default: site.github.repository_name }}</a></font></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <!---<br>
         <br>
