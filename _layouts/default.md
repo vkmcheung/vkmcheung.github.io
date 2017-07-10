@@ -15,9 +15,13 @@
   <body>
     <div class="wrapper">
       <header>
-      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <h1><a
+            href="/"
+            style="color: black"
+            onMouseOver="this.style.color='#069'"
+          >{{ site.title | default: site.github.repository_name }}
+          </a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p><small>Last updated: 7 July 2017</small><p>
         <!---<br>
         <br>
         <p class="view"><a href="/"><small>[Home]</small></a></p>
@@ -50,7 +54,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Back to <a href="/">home</a> &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Last updated: 7 July 2017 &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
