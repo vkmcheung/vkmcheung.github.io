@@ -18,7 +18,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <br>
         <br>
-        <p class="view"><a href="{{ /index.html }}">Home</a></p>
+        <p class="view"><a href="/">Home</a></p>
 
        <!--- {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
