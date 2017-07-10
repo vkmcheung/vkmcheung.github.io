@@ -3,9 +3,9 @@
 ---
 
 
-<!--[Short Biography](#short_biography) -->
+<!--[Short Biography](#short-biography) -->
 <!--[Education](#education)-->
-<!--[Prizes and Awards](#prizes_and_awards)-->
+<!--[Prizes and Awards](#prizes-and-awards)-->
 
 
 
@@ -14,7 +14,7 @@ I'm a doctoral student based in the Department of Neuropsychology at the [Max Pl
 
 Because of my background in mathematics and computational neuroscience, I also like to play with numbers and try out novel computational techniques in analysing my data. 
 
-<small>If you are interested in why I don't call myself a PhD student, click [here](personal.md#why_i_dont_call_myself_a_phd_student).</small>
+<small>If you are interested in why I don't call myself a PhD student, click [here](personal.md#why-i-dont-call-myself-a-phd-student).</small>
 <br><br>
 
 ### Education
