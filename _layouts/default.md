@@ -21,14 +21,7 @@
         onMouseOver="this.style.color='#069'"
         onMouseOut="this.style.color='#000'"
         ><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
-     <a
-        href="/"
-        style="color: '#777'"
-        onMouseOver="this.style.color='#069'"
-        onMouseOut="this.style.color='#777'"
-        onMouseOver="this.innerHTML='Back to home';"
-        onMouseOut="this.innerHTML={{ site.description | default: site.github.project_tagline }};"
-        ><p>{{ site.description | default: site.github.project_tagline }}</p></a>
+     <p>{{ site.description | default: site.github.project_tagline }}</p>
         <!---<br>
         <br>
         <p class="view"><a href="/"><small>[Home]</small></a></p>
