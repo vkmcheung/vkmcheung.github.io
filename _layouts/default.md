@@ -27,7 +27,7 @@
         onMouseOver="this.style.color='#069'"
         onMouseOut="this.style.color='#777'"
         onMouseOver="this.innerHTML='Back to home';"
-        onMouseOut="this.innerHTML={{ site.description | default: site.github.project_tagline }};">
+        onMouseOut="this.innerHTML={{ site.description | default: site.github.project_tagline }};"
         ><p>{{ site.description | default: site.github.project_tagline }}</p></a>
         <!---<br>
         <br>
