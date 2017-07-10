@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-GB" }}">
 
   <head>
     <meta charset='utf-8'>
@@ -45,7 +45,7 @@
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
          <!-- <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p> -->
-         <p>Last updated: 1 July 2017
+         <p>Last updated: 7 July 2017
       </footer>
     </div>
 
