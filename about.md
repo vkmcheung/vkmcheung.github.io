@@ -28,9 +28,12 @@
 
 ### Prizes and Awards
 
-| 2016 - | Doctoral student <br>(Max Planck Institute for Human Cognitive and Brain Sciences) |
-| 2013 - 2016 | MSc in Computational Neuroscience <br>(Bernstein Center for Computational Neuroscience) |
-| 2009 - 2013 | MMath in Mathematics <br>(University of Warwick) |
+| 2015 | Croucher Foundation/DAAD Scholarship for doctoral studies at MPI/CBS|
+| 2014 | Das Deutschlandstipendium _(The Germany Scholarship)_ |
+| 2012 | University of Warwick Undergraduate Research Scholarship Scheme (URSS) |
+| 2009 | University of Warwick International Office Undergraduate Scholarship |
+| 2009 | University of Waterloo President's Scholarship (declined) and Faculty Scholarship (declined) | 
+| 2009 | University of Toronto Scholar (declined) |
 
 
 
