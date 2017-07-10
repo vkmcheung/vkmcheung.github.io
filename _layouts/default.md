@@ -14,15 +14,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <br>
+        <!---<br>
         <br>
         <p class="view"><a href="/"><small>[Home]</small></a></p>
         <p class="view"><a href="/about.html"><small>[About me]</small></a></p>
         <p class="view"><a href="/personal.html"><small>[Personal]</small></a></p>
         <p class="view"><a href="/.html"><small>[Papers]</small></a></p>
-        <p class="view"><a href="/code.html"><small>[Code]</small></a></p>
+        <p class="view"><a href="/code.html"><small>[Code]</small></a></p> --->
        <!--- {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %} --->
