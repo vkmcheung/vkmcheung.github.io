@@ -10,19 +10,16 @@
 
 
 ### Short Biography
+I'm a doctoral student based in the Department of Neuropsychology at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en) in [Leipzig, Germany](https://en.wikipedia.org/wiki/Leipzig). My research focuses on understanding how the brain makes predictions in music. Right now, I am investigating syntactic predictions in Western tonal harmony using behavioural measures and fMRI (functional Magnetic Resonance Imaging) in musicians and non-musicians. The ultimate goal is to identify and understand the underlying neural mechanisms that support our appreciation and pleasure that we get from listening to music - based on what we have heard and practiced throughout our lives.
 
-
-
-
-~~Download my CV [here](index.md)~~  
-
+If you are interested in why I don't call myself a PhD student, click [here](personal.md#whynotphd).
 <br><br>
 
 ### Education
 
-| 2016 - | Doctoral student <br>(Max Planck Institute for Human Cognitive and Brain Sciences) |
-| 2013 - 2016 | MSc in Computational Neuroscience <br>(Bernstein Center for Computational Neuroscience) |
-| 2009 - 2013 | MMath in Mathematics <br>(University of Warwick) |
+| 2016 - | Doctoral student (IMPRS NeuroCom) <br>([Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en)) |
+| 2013 - 2016 | MSc in Computational Neuroscience <br>([Bernstein Center for Computational Neuroscience](https://www.bccn-berlin.de/Home/?languageId=1)) |
+| 2009 - 2013 | MMath in Mathematics <br>([University of Warwick](http://www2.warwick.ac.uk/)) |
 
 <br>
 
