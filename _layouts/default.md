@@ -19,6 +19,7 @@
             href="/"
             style="color: black"
             onMouseOver="this.style.color='#069'"
+            onMouseOut="this.style.color=black"
           >{{ site.title | default: site.github.repository_name }}
           </a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
