@@ -7,8 +7,10 @@
 Eventually you will be able to find the following:
 - something [about me](about.md)
 - some [more things about me](personal.md) not related to work
-- some of my papers (hcoming soon)
+- some of my papers (coming soon)
 - some of my [code](code.md)
+
+_Note: You can always go back to this page by clicking my name on the top left of the page._
 
 <br>
 
