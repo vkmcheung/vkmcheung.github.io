@@ -4,6 +4,9 @@
 
 This page contains some more information about me besides work.
 
+I envision this page to be more like a blog, with dated postings. Once I get my head around how to set this up, things will start appearing.
+
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
