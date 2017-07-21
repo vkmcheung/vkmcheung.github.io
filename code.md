@@ -4,7 +4,8 @@
 
 This page contains some MATLAB/Octave code that I wrote for things related to my experiments, some of which you might find helpful:
 
-### [testpport.m](http://vkmcheung.github.io/code/testpport.m) - <small>[view on GitHub](https://github.com/vkmcheung/vkmcheung.github.io/blob/master/code/testpport.m)</small>
+### testpport.m
+[Download](http://vkmcheung.github.io/code/testpport.m) or [View on GitHub](https://github.com/vkmcheung/vkmcheung.github.io/blob/master/code/testpport.m)
 
 Reads the parallel port and returns the state of all pins in terms of a decimal code. It is for example used when trying to read a trigger pulse from an MRI scanner in order to initiate an experiment.
 
