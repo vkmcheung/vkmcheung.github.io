@@ -10,7 +10,7 @@ Eventually you will be able to find the following:
 - some of my papers (coming soon)
 - some of my [code](code.md)
 
-_Note: You can always go back to this page by clicking my name on the top left of the page._
+_Note: You can always go back to this page by clicking my name on the top left corner._
 
 <br>
 
