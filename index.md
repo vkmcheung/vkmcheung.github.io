@@ -7,7 +7,7 @@
 Eventually you will be able to find the following:
 - something [about me](about.md)
 - some [more things about me](personal.md) not related to work
-- some of my papers (ha!)
+- some of my papers (hcoming soon)
 - some of my [code](code.md)
 
 <br>
