@@ -2,14 +2,14 @@
 
 ---
 
-This page contains some more information about me besides work.
+This page contains some more about me besides work.
 
 I envision this page to be more like a blog, with dated postings. Once I get my head around how to set this up, things will start appearing.
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
+For now, you might be interested in this:
 
 ### Why I don't call myself a PhD student
 Short answer: Because I'm studying for a [Dr. rer. nat (_Doctor rerum naturalium_)](https://en.wikipedia.org/wiki/Dr._rer._nat.) and not a PhD.
