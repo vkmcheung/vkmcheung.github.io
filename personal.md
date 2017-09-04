@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Personal
 
 ---
@@ -7,6 +11,26 @@ This page contains some more about me besides work.
 I envision this page to be more like a blog, with dated postings and possibly hash tags for different topics. Things will start appearing once I get my head around how to set this up.
 
 _Note: The lack of information in this page does not reflect the reality of my work-life balance!_
+
+
+
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
