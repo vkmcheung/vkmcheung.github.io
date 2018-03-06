@@ -7,8 +7,13 @@ Class object to easily access and manipulte files and folders made under the BID
  Created by Vincent Ka Ming Cheung on 2018 02 13 
  at the Max Planck Institute for Human Cognitive and Brain Sciences,
  Leipzig, Germany
-
+ 
  This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Internaional License
+ 
+ --- Use at your own risk! While I tried my best, I am not responsible for any errors in the code... ---
+ 
+
+
  
  
 EXAMPLE:
