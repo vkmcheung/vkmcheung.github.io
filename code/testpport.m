@@ -11,6 +11,7 @@
 # Leipzig, Germany
 #
 # This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Internaional License
+#--- Use at your own risk! While I tried my best, I am not responsible for any errors in the code... ---
 #####################################################################
 
 clc % clear the command window
