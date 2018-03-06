@@ -9,6 +9,14 @@ Class object to easily access and manipulte files and folders made under the BID
  Leipzig, Germany
 
  This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Internaional License
+ 
+ 
+EXAMPLE:
+
+from BIDSinterface import BIDS
+x = BIDS()
+x.homedir = 'path/to/folder'
+x.get()
 """
 
 
