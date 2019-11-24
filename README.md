@@ -1,1 +1,1 @@
-## Go to [homepage](https://sites.google.com/view/vkmcheung)
+## Go to new [homepage](https://sites.google.com/view/vkmcheung)
